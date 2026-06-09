@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-API_KEY = "24fee085ef095aec11db5181294a8897"
+API_KEY = "YOUR_API_KEY"
 
 
 def get_weather(city):
